@@ -85,8 +85,6 @@ Incorporo **Excel avanzado, Power Query, Power BI y SQL** para transformar datos
 - **Contexto:** Grupo Inproel.
 - **Enfoque:** Comparación de horas estándar y reales, mano de obra, capacidad productiva, tarifas y eficiencia por centro de costo.
 - **Herramientas:** SQL Server, Excel, Power Query y Power BI.
-- **Repositorio:** [COMPLETAR].
-- **Demo:** [COMPLETAR].
 
 ### Conciliación de compras, inventarios y contabilidad
 
