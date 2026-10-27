@@ -23,7 +23,19 @@
 - [Objetivo profesional](#objetivo-profesional)
 - [Contacto](#contacto)
 
----
+
+## Habilidades técnicas
+
+| Área | Conocimientos y herramientas |
+|---|---|
+| **Costos industriales** | Costos estándar y reales, costo de venta, costos de producción, variaciones, MO y CIF, márgenes y rentabilidad |
+| **Control financiero** | Cierres mensuales, conciliaciones contables, presupuestos, reportes gerenciales e indicadores |
+| **Operaciones** | Supply Chain, producción, inventarios físicos y cíclicos, WIP, scrap, capacidad y eficiencia |
+| **Activos fijos** | Capitalizaciones, depreciaciones, inventarios, proyectos, mantenimiento y seguros |
+| **Analítica** | Excel avanzado, Power Query, Power BI (intermedio), SQL (intermedio), DAX, Python (básico) |
+| **ERP** | JD Edwards, Odoo, SAP / SAP HANA (Key User en Mabe) |
+| **Competencias** | Liderazgo de equipos, gestión de tarifas, mejora continua, análisis financiero y comunicación de indicadores |
+
 
 ## Perfil profesional
 
@@ -55,7 +67,6 @@ Incorporo **Excel avanzado, Power Query, Power BI y SQL** para transformar datos
 - Participo funcionalmente en la migración de **JD Edwards a Odoo**, incluyendo depuración, validación, estructuración y carga masiva de datos.
 - Elaboro y analizo información financiera y operativa mediante **Excel avanzado, Power Query y Power BI** para cierres y decisiones de negocio.
 
-**Logros cuantificables:** [COMPLETAR: resultados medidos y verificables].
 
 ### Mabe Ecuador S.A.
 
@@ -72,7 +83,6 @@ Incorporo **Excel avanzado, Power Query, Power BI y SQL** para transformar datos
 - Lideré el **Comité de Implementación de Cambios (CIC)**.
 - Me desempeñé como **Key User de SAP HANA**. Alcance específico del rol: [COMPLETAR].
 
-**Logros cuantificables:** [COMPLETAR: resultados medidos y verificables].
 
 ---
 
@@ -104,20 +114,6 @@ Incorporo **Excel avanzado, Power Query, Power BI y SQL** para transformar datos
 
 ---
 
-## Habilidades técnicas
-
-| Área | Conocimientos y herramientas |
-|---|---|
-| **Costos industriales** | Costos estándar y reales, costo de venta, costos de producción, variaciones, MO y CIF, márgenes y rentabilidad |
-| **Control financiero** | Cierres mensuales, conciliaciones contables, presupuestos, reportes gerenciales e indicadores |
-| **Operaciones** | Supply Chain, producción, inventarios físicos y cíclicos, WIP, scrap, capacidad y eficiencia |
-| **Activos fijos** | Capitalizaciones, depreciaciones, inventarios, proyectos, mantenimiento y seguros |
-| **Analítica** | Excel avanzado, Power Query, Power BI (intermedio), SQL (intermedio), DAX, Python (básico) |
-| **ERP** | JD Edwards, Odoo, SAP / SAP HANA (Key User en Mabe) |
-| **Competencias** | Liderazgo de equipos, gestión de tarifas, mejora continua, análisis financiero y comunicación de indicadores |
-
----
-
 ## Educación
 
 ### Ingeniería Comercial, mención en Finanzas
@@ -135,28 +131,8 @@ Incorporo **Excel avanzado, Power Query, Power BI y SQL** para transformar datos
 - **Certificación por Competencias Laborales – Administración de Empresas** — Vigencia 2024–2029.
 - **Analista Financiero** — Liderazgo Capacitación & Eventos, diciembre de 2023.
 
----
 
-## Idiomas
 
-- **Español:** [COMPLETAR: nivel].
-- **Inglés:** Básico.
-
----
-
-## Objetivo profesional
-
-Evolucionar hacia una **Jefatura de Costos Industriales o Control de Gestión**, con proyección a una posición gerencial. Aspiro a liderar iniciativas que integren finanzas, producción, costos y tecnología para impulsar la eficiencia operativa, el control presupuestario, la automatización del análisis y decisiones basadas en datos.
-
----
-
-## Contacto
-
-- **Ubicación:** Guayaquil, Ecuador.
-- **Correo:** [karenkjhloren@hotmail.com](mailto:karenkjhloren@hotmail.com).
-- **LinkedIn:** [Karen Katherine Jiménez Huayamave](https://www.linkedin.com/in/karen-katherine-jimenez-huayamave-5ab264169).
-- **GitHub:** [COMPLETAR].
-- **Portafolio:** [COMPLETAR].
 
 ---
 
