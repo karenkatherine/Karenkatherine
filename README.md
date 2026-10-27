@@ -4,25 +4,11 @@
 
 **Impulso la eficiencia operativa, el análisis de rentabilidad y la toma de decisiones basadas en datos.**
 
-📍 Guayaquil, Ecuador · 📞 0989637511 · 📧 [karenkjhloren@hotmail.com](mailto:karenkjhloren@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/karen-katherine-jimenez-huayamave-5ab264169) · [GitHub](https://github.com/[COMPLETAR]) · [Portafolio]([COMPLETAR])
+📍 Guayaquil, Ecuador · 📞 0989637511 · 📧 [karenkjhloren@hotmail.com](mailto:karenkjhloren@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/karen-katherine-jimenez-huayamave-5ab264169) · 
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FA6D4?style=flat&logo=sap&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 
 ---
-
-## Índice
-
-- [Perfil profesional](#perfil-profesional)
-- [Propuesta de valor](#propuesta-de-valor)
-- [Experiencia profesional](#experiencia-profesional)
-- [Proyectos destacados](#proyectos-destacados)
-- [Habilidades técnicas](#habilidades-técnicas)
-- [Educación](#educación)
-- [Certificaciones y formación](#certificaciones-y-formación)
-- [Idiomas](#idiomas)
-- [Objetivo profesional](#objetivo-profesional)
-- [Contacto](#contacto)
-
 
 ## Habilidades técnicas
 
